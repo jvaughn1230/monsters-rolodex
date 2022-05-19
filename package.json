@@ -1,6 +1,6 @@
 {
   "name": "monsters-rolodex",
-  "homepage": "https://jvaughn1230.github.io/monsters-rolodex",
+  "homepage": "https://jvaughn1230.github.io/monsters-rolodex/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,6 +12,7 @@
     "@types/react": "^18.0.9",
     "@types/react-dom": "^18.0.4",
     "gh": "^2.8.9",
+    "gh-pages": "^4.0.0",
     "pages": "^0.0.16",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
