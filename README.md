@@ -1,3 +1,16 @@
+# Monsters Rolodex
+
+## Description
+App that allows the user to seach through a list of 'Monsters'. 
+
+Project was built to practice the fundamentals of React and TypeScript. 
+
+Monsters from https://robohash.org
+
+### Dependencies
+React, TypScript, React-DOM
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
